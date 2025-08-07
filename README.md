@@ -1,4 +1,4 @@
-# Financial_Bank_Analiysis. 
+# Financial_Bank_Analysis. 
 
 # What problem I am solving in this project 
 
